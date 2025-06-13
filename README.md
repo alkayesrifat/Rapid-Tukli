@@ -1,3 +1,8 @@
+## 🔽 Download
+
+[Download  (v0.1)]([https://github.com/alkayesrifat/XPSC-Batch-06-Daily-Form-Update-Automation-Chrome-Extension/releases/download/V0.1/XPSC.Batch.06.Daily.Update.zip](https://archive.org/download/rapid-tukli/Rapid%20Tukli.zip))
+
+
 # Rapid Tukli - Quick Note Extension
 
 Rapid Tukli is a lightweight and user-friendly Chrome extension designed for taking quick notes directly in your browser. It allows you to jot down ideas, reminders, or any text-based content effortlessly. Your notes are automatically saved to your browser's local storage, ensuring they persist even after you close the browser.
