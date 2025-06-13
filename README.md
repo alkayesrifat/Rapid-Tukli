@@ -1,6 +1,6 @@
 ## 🔽 Download
 
-[Download  (v0.1)](https://archive.org/download/rapid-tukli/Rapid%20Tukli.zip))
+[Download  (v0.1)](https://archive.org/download/rapid-tukli/Rapid%20Tukli.zip)
 
 
 # Rapid Tukli - Quick Note Extension
